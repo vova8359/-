@@ -13,6 +13,8 @@
 | 3 | [03-deobfuscation.md](03-deobfuscation.md) | Відновлення імен з Kotlin-метаданих, мапи, ручна техніка |
 | 4 | [04-roundtrip.md](04-roundtrip.md) | rebuild → sign → install, доказ правок, v1 vs v2/v3 |
 | 5 | [05-architecture.md](05-architecture.md) | Карта: MVVM, DI-граф, мережа, фічі, де що шукати |
+| 6 | [06-deep-dive-feature-flags.md](06-deep-dive-feature-flags.md) | Наскрізний розбір фічі: StartupConfig + Laquesis, від сервера до smali |
+| + | [smali-cheatsheet.md](smali-cheatsheet.md) | Довідник smali для правок |
 
 ## Артефакти
 
